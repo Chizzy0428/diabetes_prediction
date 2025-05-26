@@ -85,12 +85,12 @@ Age	30	Age in years
 •	Click the Predict button to see the diabetes prediction result.
 •	Expand the "Show Feature Importance" section to view which features influence the prediction.
 
-Project Structure
-├── app.py                     # Main Streamlit app
-├── diabetes_model.pkl         # Trained Logistic Regression model
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
-└── diabetes_prediction_proj   # Project Notebook
+# Project Structure
+├── app.py                     Main Streamlit app
+├── diabetes_model.pkl         Trained Logistic Regression model
+├── requirements.txt           Python dependencies
+├── README.md                  Project documentation
+└── diabetes_prediction_proj   Project Notebook
 
 
  
