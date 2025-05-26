@@ -4,7 +4,7 @@ import pickle
 import matplotlib.pyplot as plt
 
 # Load trained model
-with open(r'C:\Users\DELL\PycharmProjects\Diabetes_project\diabetes_model.pkl', 'rb') as f:
+with open('diabetes_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
 # Set Streamlit page config
